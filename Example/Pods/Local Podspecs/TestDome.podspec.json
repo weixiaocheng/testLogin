@@ -1,0 +1,22 @@
+{
+  "name": "TestDome",
+  "version": "0.1.0",
+  "summary": "A short description of TestDome.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/454493675@qq.com/TestDome",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "454493675@qq.com": "454493675@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/454493675@qq.com/TestDome.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestDome/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TestDome (0.1.0)
+
+DEPENDENCIES:
+  - TestDome (from `../`)
+
+EXTERNAL SOURCES:
+  TestDome:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestDome: af945e18d37d25682a796b524f722ef4367be863
+
+PODFILE CHECKSUM: 4cd9768716653019bd587de31212703b5f3d6f37
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module TestDome {
+  umbrella header "TestDome-umbrella.h"
+
+  export *
+  module * { export * }
+}
